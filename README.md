@@ -8,4 +8,5 @@ This repository is only for future reference for myself, and educational purpose
 
 # CONTENT
 Project 1 - PCB Process creation/destruction with LL and w/o
+
 Project 2 - Scheduling Simulator (FCFS, SRTF, RR)
